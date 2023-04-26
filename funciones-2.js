@@ -58,3 +58,16 @@ console.log(expresada(6, 5));
         else console.log("El numero", numero, " es impar ");
     } else console.log("el numero" + numero + " no es entero positivo ");
 })(-4);
+
+
+var1 = 1;
+var2 = 1;
+var3 = "1";
+if(var1 === var3){
+    console.log("son iguales")
+}
+else{
+    console.log("son diferentes")
+}
+
+

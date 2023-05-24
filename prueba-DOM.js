@@ -25,4 +25,4 @@ meses.forEach((elemento) => {
   const $li = document.createElement("li");
   $li.textContent = elemento; 
   $ul.appendChild($li);
-});
+});  
